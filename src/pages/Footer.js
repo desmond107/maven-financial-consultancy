@@ -18,10 +18,10 @@ function Footer() {
               className="mb-3"
             />
             <p className="gray-100">
-              Please contact us if you have any specific <br /> idea or request.
+              Please contact us if you have any specific <br /> help or request.
             </p>
             <Link className="link-primary link-underline-opacity-0" to={""}>
-              info@revend.group
+              info@mavenfinancial.group
             </Link>
           </motion.div>
           <span className="d-block d-md-none"></span>
@@ -59,11 +59,11 @@ function Footer() {
           transition={{ duration: 0.8 }}
           className="d-flex justify-content-between flex-column flex-md-row flex-wrap gray-100 pt-3"
         >
-          <p>© 2023 ProHouse. All rights reserved</p>
+          <p>© 2023 Maven Financial Consultants. All rights reserved</p>
           <p>
-            Design by{" "}
+            Design by{"  "}
             <Link className="link-primary link-underline-opacity-0" to={""}>
-              Revend
+              Desmond
             </Link>
           </p>
         </motion.div>

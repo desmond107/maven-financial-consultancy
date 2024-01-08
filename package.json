@@ -1,7 +1,7 @@
 {
-  "name": "pro-house",
+  "name": "maven-financial-consultants",
   "version": "0.1.0",
-  "homepage": "https://Yousef-Alfares.github.io/ProHouse",
+
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
